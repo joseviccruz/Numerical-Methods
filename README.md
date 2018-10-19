@@ -30,7 +30,7 @@ Steps:
     * The output will be directed to the file: output.txt;
 
 Bonus:
-  * Comment the [!!!] lines to display the chart using the matplotlib library;
+  * Uncomment the [!!!] lines to display the chart using the matplotlib library;
   * Try higher orders in Adam-Bashforth, Adam-Multon methods;
 
 enjoy-it ;)
