@@ -31,7 +31,7 @@ Steps:
 
 Bonus:
   * Uncomment the [!!!] lines to display the chart using the matplotlib library;
-  * Try higher orders in Adam-Bashforth, Adam-Multon methods;
+  * Try higher orders in Adam-Bashforth, Adam-Multon and Backward Differentiation methods;
 
 enjoy-it ;)
 
